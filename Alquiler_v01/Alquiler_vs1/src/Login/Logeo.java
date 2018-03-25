@@ -19,7 +19,7 @@ import javax.swing.UIManager;
 import java.awt.Font;
 
 public class Logeo extends JFrame {
-
+// :v prueba alv
 	private JPanel contentPane;
 	public static JTextField txtUsuario;
 	public static JPasswordField pssContrasena;
